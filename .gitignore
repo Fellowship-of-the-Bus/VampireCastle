@@ -1,6 +1,7 @@
 *.class
 *.log
 *~
+.*~
 ._*
 .DS_Store
 
